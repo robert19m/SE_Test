@@ -24,5 +24,15 @@ namespace SE_Test
         {
             textBox3.Text = "Lets see if this works!";
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            textBox4.Text = "Hopefully this will too!";
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "Mitko got it right!";
+        }
     }
 }
