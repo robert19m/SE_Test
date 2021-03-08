@@ -14,5 +14,10 @@ namespace SE_Test
         {
             textBox1.Text = "Hello World!";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            textBox2.Text = "Is it home time yet!!!!";
+        }
     }
 }
